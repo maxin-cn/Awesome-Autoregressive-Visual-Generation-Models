@@ -2,7 +2,7 @@
 A curated list of recent autoregressive models for image/video generation, editing, restoration, etc.
 
 <p align="center">
-<img src="visual.png" width="480px"/>  
+<img src="visual.png"/>  
 </p>
 
 ## Table of Contents <!-- omit in toc -->
