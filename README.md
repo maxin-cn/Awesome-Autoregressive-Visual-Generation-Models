@@ -14,6 +14,10 @@ A curated list of recent autoregressive models for image/video generation, editi
 - [Others](#Others)
 
 ### Video Generation 
++ [ACDC: Autoregressive Coherent Multimodal Generation using Diffusion Correction](https://arxiv.org/abs/2410.04721)(7 Oct 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04721)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://acdc2025.github.io/)
+
 + [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757) (3 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02757)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://epiphqny.github.io/Loong-video/)
