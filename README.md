@@ -119,7 +119,6 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Star](https://img.shields.io/github/stars/Ugness/MeBT.svg?style=social&label=Star)](https://github.com/Ugness/MeBT)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/mebt-cvpr2023)
 
-
 + [Muse: Text-to-image generation via masked generative transformers](https://arxiv.org/abs/2301.00704) (2 Jan 2023 & ICML 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.04200)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://muse-model.github.io/)
@@ -158,7 +157,6 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Star](https://img.shields.io/github/stars/CompVis/taming-transformers.svg?style=social&label=Star)](https://github.com/CompVis/taming-transformers)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://compvis.github.io/taming-transformers/)
 
-
 ### Controllable Image Generation
 + [CAR: Controllable Autoregressive Modeling for Visual Generation](https://arxiv.org/abs/2410.04671v1) (7 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.12092))
@@ -168,9 +166,8 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02705))
   [![Star](https://img.shields.io/github/stars/hustvl/ControlAR.svg?style=social&label=Star)](https://github.com/hustvl/ControlAR)
 
-
 ### Multimodal Visual Generation
-+ [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848)  
++ [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) (17 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13848))
   [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
 
