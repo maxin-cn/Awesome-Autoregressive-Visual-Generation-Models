@@ -1,5 +1,5 @@
 # Awesome Autoregressive Visual Generation Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
-A curated list of recent autoregressive models for image/video generation, editing, restoration, etc.
+A curated list of recent autoregressive models for image/video generation, editing, restoration, etc (only focusing on next-set prediction paradigm).
 
 <p align="center">
 <img src="visual.png"/>  
