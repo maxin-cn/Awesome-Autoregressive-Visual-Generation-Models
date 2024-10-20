@@ -68,6 +68,9 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
++ [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](https://arxiv.org/abs/2410.13863)  (17 Oct 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13863)
+
 + [Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective](https://arxiv.org/abs/2410.12490) (16 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.12490)
   [![Star](https://img.shields.io/github/stars/mit-han-lab/hart.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/DiGIT)
@@ -75,9 +78,6 @@ A curated list of recent autoregressive models for image/video generation, editi
 + [Unlocking the Capabilities of Masked Generative Models for Image Synthesis via Self-Guidance](https://arxiv.org/abs/2410.13136)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13136)
   [![Star](https://img.shields.io/github/stars/mit-han-lab/hart.svg?style=social&label=Star)](https://github.com/JiwanHur/UnlockMGM)
-
-+ [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](https://arxiv.org/abs/2410.13863)  (17 Oct 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13863)
 
 + [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/abs/2410.10812) (14 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08159v1)
@@ -100,7 +100,6 @@ A curated list of recent autoregressive models for image/video generation, editi
 + [MARS:Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis](https://arxiv.org/abs/2407.07614) (10 Jul 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07614)
   [![Star](https://img.shields.io/github/stars/fusiming3/MARS.svg?style=social&label=Star)](https://github.com/fusiming3/MARS)
-  
 
 + [Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838) (17 Jun 2024 & NeurIPS 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11838)
