@@ -159,6 +159,10 @@ A curated list of recent autoregressive models for image/video generation, editi
 
 
 ### Multimodal Visual Generation
++ [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13848))
+  [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
+
 + [PUMA: Empowering Unified MLLM with Multi-granular Visual Generation](https://arxiv.org/abs/2410.13861) (17 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13861))
   [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/rongyaofang/PUMA)
