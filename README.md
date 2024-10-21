@@ -102,9 +102,13 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.12245)
   [![Star](https://img.shields.io/github/stars/hp-l33/AiM.svg?style=social&label=Star)](https://github.com/hp-l33/AiM)
 
-+ [Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining](https://arxiv.org/abs/2408.02657)  
++ [Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining](https://arxiv.org/abs/2408.02657) (5 Aug 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.02657)
   [![Star](https://img.shields.io/github/stars/hp-l33/AiM.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-mGPT)
+
++ [VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling](https://arxiv.org/abs/2408.01181) (2 Aug 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.01181)
+  [![Star](https://img.shields.io/github/stars/daixiangzi/VAR-CLIP.svg?style=social&label=Star)](https://github.com/daixiangzi/VAR-CLIP)
 
 + [MARS:Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis](https://arxiv.org/abs/2407.07614) (10 Jul 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07614)
