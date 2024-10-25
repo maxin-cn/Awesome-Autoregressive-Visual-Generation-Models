@@ -68,6 +68,11 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
++ [Elucidating the design space of language models for image generation](https://arxiv.org/abs/2410.16257)  (21 Oct 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.16257)
+  [![Star](https://img.shields.io/github/stars/Pepper-lll/LMforImageGeneration.svg?style=social&label=Star)](https://github.com/Pepper-lll/LMforImageGeneration)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pepper-lll.github.io/LMforImageGeneration/)
+
 + [BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities](https://arxiv.org/abs/2410.14672)  (18 Oct 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14672)
 [![Star](https://img.shields.io/github/stars/haoosz/BiGR.svg?style=social&label=Star)](https://github.com/haoosz/BiGR)
