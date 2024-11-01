@@ -18,10 +18,6 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04721)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://acdc2025.github.io/)
 
-+ [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757) (3 Oct 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02757)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://epiphqny.github.io/Loong-video/)
-
 + [VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/abs/2312.14125) (21 Dec 2023 & ICML 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14125)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.research.google/videopoet/)
@@ -58,6 +54,10 @@ A curated list of recent autoregressive models for image/video generation, editi
 
 
 ### Long Video / Film Generation
++ [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757) (3 Oct 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02757)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://epiphqny.github.io/Loong-video/)
+
 + [Phenaki: Variable length video generation from open domain textual descriptions](https://arxiv.org/abs/2210.02399) (5 Oct 2022 & ICLR 2022)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02399)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.research.google/videopoet/)
