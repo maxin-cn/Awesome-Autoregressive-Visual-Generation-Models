@@ -54,6 +54,10 @@ A curated list of recent autoregressive models for image/video generation, editi
 
 
 ### Long Video / Film Generation
++ [ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation](https://arxiv.org/abs/2410.20502) (27 Oct 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20502)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://arlont2v.github.io/)
+
 + [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757) (3 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02757)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://epiphqny.github.io/Loong-video/)
