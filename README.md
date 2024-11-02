@@ -14,11 +14,11 @@ A curated list of recent autoregressive models for image/video generation, editi
 - [Others](#Others)
 
 ### Video Generation 
-+ [LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior](https://arxiv.org/abs/2410.21264) (28 Oct 2024)
++ [LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior](https://arxiv.org/abs/2410.21264) (28 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.21264)
   [![Star](https://img.shields.io/github/stars/hywang66/LARP.svg?style=social&label=Star)](https://github.com/hywang66/LARP)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hywang66.github.io/larp/)
-  
+
 + [ACDC: Autoregressive Coherent Multimodal Generation using Diffusion Correction](https://arxiv.org/abs/2410.04721)(7 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04721)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://acdc2025.github.io/)
