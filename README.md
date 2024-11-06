@@ -77,6 +77,10 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
++ [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00776)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yucornetto.github.io/projects/rar.html)
+
 + [Where Am I and What Will I See: An Auto-Regressive Model for Spatial Localization and View Prediction](https://arxiv.org/abs/2410.18962) (24 Oct 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.18962)
   [![Star](https://img.shields.io/github/stars/SOTAMak1r/GST.svg?style=social&label=Star)](https://github.com/SOTAMak1r/GST)
