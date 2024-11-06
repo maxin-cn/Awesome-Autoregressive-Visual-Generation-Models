@@ -77,7 +77,7 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
-+ [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776)
++ [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00776)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yucornetto.github.io/projects/rar.html)
 
