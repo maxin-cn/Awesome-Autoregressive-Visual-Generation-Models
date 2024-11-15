@@ -323,6 +323,12 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11846)
   [![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
 
+### Survey
++ [A Survey on Vision Autoregressive Model] (13 Nov 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.08666)
+
++ [Autoregressive Models in Vision: A Survey] (8 Nov 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05902)
 
 ### Others
 + [Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055) (Mar 2022 & CVPR 2022)  
