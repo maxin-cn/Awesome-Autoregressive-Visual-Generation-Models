@@ -11,6 +11,7 @@ A curated list of recent autoregressive models for image/video generation, editi
 - [Image Generation](#image-generation)
 - [Controllable Image Generation](#controllable-image-generation)
 - [Multimodal Generation](#multimodal-generation)
+- [Survey](#Survey)
 - [Others](#Others)
 
 ### Video Generation 
