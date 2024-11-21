@@ -60,10 +60,6 @@ A curated list of recent autoregressive models for image/video generation, editi
 
 
 ### Long Video / Film Generation
-+ [M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation](https://arxiv.org/abs/2411.10433) (15 Nov 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10433)
-  [![Star](https://img.shields.io/github/stars/wilson1yan/VideoGPT.svg?style=social&label=Star)](https://github.com/OliverRensu/MVAR)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://oliverrensu.github.io/project/MVAR/mvar)
 
 + [ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation](https://arxiv.org/abs/2410.20502) (27 Oct 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20502)
@@ -83,6 +79,14 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
++ [CART: Compositional Auto-Regressive Transformer for Image Generation](https://arxiv.org/abs/2411.10180) (15 Nov 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10180)
+
++ [M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation](https://arxiv.org/abs/2411.10433) (15 Nov 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10433)
+  [![Star](https://img.shields.io/github/stars/wilson1yan/VideoGPT.svg?style=social&label=Star)](https://github.com/OliverRensu/MVAR)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://oliverrensu.github.io/project/MVAR/mvar)
+
 + [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776) (1 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00776)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yucornetto.github.io/projects/rar.html)
