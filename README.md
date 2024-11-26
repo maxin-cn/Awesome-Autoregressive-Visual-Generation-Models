@@ -79,6 +79,10 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
++ [High-Resolution Image Synthesis via Next-Token Prediction](https://arxiv.org/abs/2411.14808) (22 Nov 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14808)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://d-jepa.github.io/t2i/)
+
 +  [Continuous Speculative Decoding for Autoregressive Image Generation](https://arxiv.org/abs/2411.11925v1) (18 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11925v1)
   [![Star](https://img.shields.io/github/stars/wilson1yan/VideoGPT.svg?style=social&label=Star)](https://github.com/MarkXCloud/CSpD)
@@ -106,9 +110,9 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pepper-lll.github.io/LMforImageGeneration/)
 
 + [BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities](https://arxiv.org/abs/2410.14672)  (18 Oct 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14672)
-[![Star](https://img.shields.io/github/stars/haoosz/BiGR.svg?style=social&label=Star)](https://github.com/haoosz/BiGR)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://haoosz.github.io/BiGR/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14672)
+  [![Star](https://img.shields.io/github/stars/haoosz/BiGR.svg?style=social&label=Star)](https://github.com/haoosz/BiGR)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://haoosz.github.io/BiGR/)
 
 + [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](https://arxiv.org/abs/2410.13863)  (17 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13863)
