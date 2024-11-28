@@ -79,6 +79,10 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
++ [PanoLlama: Generating Endless and Coherent Panoramas with Next-Token-Prediction LLMs](https://arxiv.org/abs/2411.15867)  (24 Nov 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15867)
+  [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/0606zt/PanoLlama)
+
 + [High-Resolution Image Synthesis via Next-Token Prediction](https://arxiv.org/abs/2411.14808) (22 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14808)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://d-jepa.github.io/t2i/)
