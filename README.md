@@ -81,24 +81,24 @@ A curated list of recent autoregressive models for image/video generation, editi
 ### Image Generation
 + [ZipAR: Accelerating Auto-Regressive Image Generation through Spatial Locality](https://arxiv.org/abs/2412.04062) (5 Dec 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04062)
-  [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/ThisisBillhe/ZipAR)
+  [![Star](https://img.shields.io/github/stars/ThisisBillhe/ZipAR.svg?style=social&label=Star)](https://github.com/ThisisBillhe/ZipAR)
 
 + [LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization](https://arxiv.org/abs/2411.17178) (26 Nov 2024 & NeurIPS 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17178)
   
 + [Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient](https://arxiv.org/abs/2411.17787) (26 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17787)
-  [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/czg1225/CoDe)
+  [![Star](https://img.shields.io/github/stars/czg1225/CoDe.svg?style=social&label=Star)](https://github.com/czg1225/CoDe)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://czg1225.github.io/CoDe_page/)
 
 + [Factorized Visual Tokenization and Generation](https://arxiv.org/abs/2411.16681) (25 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16681)
-  [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/showlab/FQGAN)
+  [![Star](https://img.shields.io/github/stars/showlab/FQGAN.svg?style=social&label=Star)](https://github.com/showlab/FQGAN)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/FQGAN/)
 
 + [PanoLlama: Generating Endless and Coherent Panoramas with Next-Token-Prediction LLMs](https://arxiv.org/abs/2411.15867)  (24 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15867)
-  [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/0606zt/PanoLlama)
+  [![Star](https://img.shields.io/github/stars/0606zt/PanoLlama.svg?style=social&label=Star)](https://github.com/0606zt/PanoLlama)
 
 + [High-Resolution Image Synthesis via Next-Token Prediction](https://arxiv.org/abs/2411.14808) (22 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14808)
