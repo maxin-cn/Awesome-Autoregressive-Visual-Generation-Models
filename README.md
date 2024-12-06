@@ -241,7 +241,7 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Star](https://img.shields.io/github/stars/hustvl/ControlAR.svg?style=social&label=Star)](https://github.com/hustvl/ControlAR)
 
 ### Multimodal Visual Generation
-+ [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation]  (12 Nov 2024)  
++ [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2411.07975)  (12 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07975))
   [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
 
@@ -363,10 +363,10 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
 
 ### Survey
-+ [A Survey on Vision Autoregressive Model] (13 Nov 2024)  
++ [A Survey on Vision Autoregressive Model](https://arxiv.org/abs/2411.08666) (13 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.08666)
 
-+ [Autoregressive Models in Vision: A Survey] (8 Nov 2024)  
++ [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902) (8 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.05902)
 
 ### Others
