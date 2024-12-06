@@ -81,10 +81,11 @@ A curated list of recent autoregressive models for image/video generation, editi
 ### Image Generation
 + [ZipAR: Accelerating Auto-Regressive Image Generation through Spatial Locality](https://arxiv.org/abs/2412.04062) (5 Dec 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04062)
+  [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/ThisisBillhe/ZipAR)
 
 + [LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization](https://arxiv.org/abs/2411.17178) (26 Nov 2024 & NeurIPS 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17178)
-
+  
 + [Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient](https://arxiv.org/abs/2411.17787) (26 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17787)
   [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/czg1225/CoDe)
