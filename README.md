@@ -79,6 +79,10 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
++ [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431) (5 Dec 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04431)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/Infinity.svg?style=social&label=Star)](https://github.com/FoundationVision/Infinity)
+
 + [ZipAR: Accelerating Auto-Regressive Image Generation through Spatial Locality](https://arxiv.org/abs/2412.04062) (5 Dec 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04062)
   [![Star](https://img.shields.io/github/stars/ThisisBillhe/ZipAR.svg?style=social&label=Star)](https://github.com/ThisisBillhe/ZipAR)
