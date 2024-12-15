@@ -15,6 +15,10 @@ A curated list of recent autoregressive models for image/video generation, editi
 - [Others](#Others)
 
 ### Video Generation 
++ [DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models](https://arxiv.org/abs/2412.04446) (5 Dec 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04446)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://liyizhuo.com/DiCoDe/)
+
 + [LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior](https://arxiv.org/abs/2410.21264) (28 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.21264)
   [![Star](https://img.shields.io/github/stars/hywang66/LARP.svg?style=social&label=Star)](https://github.com/hywang66/LARP)
