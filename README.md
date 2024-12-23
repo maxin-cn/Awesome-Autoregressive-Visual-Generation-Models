@@ -10,7 +10,7 @@ A curated list of recent autoregressive models for image/video generation, editi
 - [Long Video / Film Generation](#long-video--film-generation)
 - [Image Generation](#image-generation)
 - [Controllable Image Generation](#controllable-image-generation)
-- [Multimodal Generation](#multimodal-generation)
+- [Multimodal Generation](#multimodal-visual-generation)
 - [Survey](#Survey)
 - [Others](#Others)
 
@@ -266,6 +266,10 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Star](https://img.shields.io/github/stars/hustvl/ControlAR.svg?style=social&label=Star)](https://github.com/hustvl/ControlAR)
 
 ### Multimodal Visual Generation
++ [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/abs/2412.08635) (11 Dec 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.08635))
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://aka.ms/GeneralAI)
+
 + [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2411.07975)  (12 Nov 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07975))
   [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
