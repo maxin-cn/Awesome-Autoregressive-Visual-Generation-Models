@@ -267,7 +267,7 @@ A curated list of recent autoregressive models for image/video generation, editi
 
 ### Multimodal Visual Generation
 + [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/abs/2412.08635) (11 Dec 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.08635))
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.08635)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://aka.ms/GeneralAI)
 
 + [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2411.07975)  (12 Nov 2024)  
