@@ -85,6 +85,10 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
++ [Causal Diffusion Transformers for Generative Modeling](http://arxiv.org/abs/2412.12095) (16 Dec 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12095)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/causalfusion/causalfusion.git)
+
 + [Spectral Image Tokenizer](https://arxiv.org/abs/2412.09607) (12 Dec 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09607)
 
