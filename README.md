@@ -108,7 +108,7 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06329)
   [![Star](https://img.shields.io/github/stars/apple/ml-tarflow.svg?style=social&label=Star)](https://github.com/apple/ml-tarflow)
 
-+ [Liquid: Language Models are Scalable Multi-modal Generators](https://arxiv.org/abs/2412.04332) (5 Dec 2024)
++ [Liquid: Language Models are Scalable Multi-modal Generators](https://arxiv.org/abs/2412.04332) (5 Dec 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04332)
   [![Star](https://img.shields.io/github/stars/FoundationVision/Liquid.svg?style=social&label=Star)](https://github.com/FoundationVision/Liquid)
 
