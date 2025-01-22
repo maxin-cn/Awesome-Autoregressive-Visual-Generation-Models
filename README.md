@@ -93,7 +93,7 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12095)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/causalfusion/causalfusion.git)
 
-+ [SoftVQ-VAE: Efficient 1-Dimensional Continuous Tokenizer](http://arxiv.org/abs/2412.10958) (14 Dec 2024)
++ [SoftVQ-VAE: Efficient 1-Dimensional Continuous Tokenizer](http://arxiv.org/abs/2412.10958) (14 Dec 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10958)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Hhhhhhao/continuous_tokenizer)
 
