@@ -97,7 +97,7 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10958)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Hhhhhhao/continuous_tokenizer)
 
-+ [Spectral Image Tokenizer](https://arxiv.org/abs/2412.09607) (12 Dec 2024)
++ [Spectral Image Tokenizer](https://arxiv.org/abs/2412.09607) (12 Dec 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09607)
 
 + [Taming Scalable Visual Tokenizer for Autoregressive Image Generation](http://arxiv.org/abs/2412.02692) (3 Dec 2024)  
