@@ -64,7 +64,7 @@ A curated list of recent autoregressive models for image/video generation, editi
 
 
 ### Long Video / Film Generation
-+ [Advancing Auto-Regressive Continuation for Video Frames](http://arxiv.org/abs/2412.03758) (4 Dec 2024)
++ [Advancing Auto-Regressive Continuation for Video Frames](http://arxiv.org/abs/2412.03758) (4 Dec 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03758)
 
 + [ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation](https://arxiv.org/abs/2410.20502) (27 Oct 2024)
