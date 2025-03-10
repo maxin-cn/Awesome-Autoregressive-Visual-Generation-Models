@@ -85,6 +85,11 @@ A curated list of recent autoregressive models for image/video generation, editi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
 
 ### Image Generation
++ [Frequency Autoregressive Image Generation with Continuous Tokens](https://arxiv.org/abs/2503.05305) (7 Mar 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05305)
+  [![Star](https://img.shields.io/github/stars/yuhuUSTC/FAR.svg?style=social&label=Star)](https://github.com/yuhuUSTC/FAR)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yuhuustc.github.io//projects/FAR.html)
+
 + [Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens](https://arxiv.org/abs/2501.07730) (13 Jan 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.07730)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tacju.github.io/projects/maskgen.html)
