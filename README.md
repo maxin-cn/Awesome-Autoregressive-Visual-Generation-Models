@@ -203,6 +203,11 @@ A curated list of recent autoregressive models for image/video generation, editi
 + [LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding](https://arxiv.org/abs/2410.03355) (4 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03355)
 
++ [Denoising with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2410.03755) (2 Oct 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.03755)
+  [![Star](https://img.shields.io/github/stars/D-JEPA/djepa-imagenet.svg?style=social&label=Star)](https://github.com/D-JEPA/djepa-imagenet)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://d-jepa.github.io/)
+
 + [Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding](https://arxiv.org/abs/2410.01699) (2 Oct 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.01699)
 
@@ -212,7 +217,7 @@ A curated list of recent autoregressive models for image/video generation, editi
 
 + [Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining](https://arxiv.org/abs/2408.02657) (5 Aug 2024)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.02657)
-  [![Star](https://img.shields.io/github/stars/hp-l33/AiM.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-mGPT)
+  [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-mGPT.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-mGPT)
 
 + [VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling](https://arxiv.org/abs/2408.01181) (2 Aug 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.01181)
